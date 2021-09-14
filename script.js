@@ -22,8 +22,6 @@ function countdown(){
     printSeconds.innerHTML = (seconds);
 
 
-    console.log(days, hours, minutes, seconds);
-
 
 }
 countdown();
